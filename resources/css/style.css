@@ -1,0 +1,36 @@
+html {
+  font-family: Verdana, sans-serif;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+.gray {
+  color: gray;
+}
+
+.right {
+  text-align: right;
+}
+
+h1 {
+  font-size: 50px;
+/*  font-weight: normal; */
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+h3 {
+  font-size: 21px;
+}
+
+p {
+  font-size: 16px;
+}
+
+a {
+  color: Aquamarine;
+}
